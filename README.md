@@ -9,10 +9,13 @@
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](tests/)
 [![ONNX](https://img.shields.io/badge/ONNX-supported-orange.svg)](https://onnx.ai/)
 [![uv](https://img.shields.io/badge/uv-package%20manager-blueviolet.svg)](https://github.com/astral-sh/uv)
+[![DeepWiki](https://img.shields.io/badge/DeepWiki-nano--autograd-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAxN0g5VjdoMnYxMHptNCAwaC0yVjdoMnYxMHoiLz48L3N2Zz4=)](https://deepwiki.com/Atnagnohil/nano-autograd)
 
 *An educational deep learning framework for understanding automatic differentiation and neural network fundamentals*
 
 *Powered by [uv](https://github.com/astral-sh/uv) package manager ⚡*
+
+> 📖 **Strongly Recommended**: Use [DeepWiki](https://deepwiki.com/Atnagnohil/nano-autograd) to explore and learn this project — it provides an AI-powered interactive knowledge base that makes understanding the codebase much faster and easier.
 
 English | [简体中文](README_zh.md)
 

@@ -9,10 +9,13 @@
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](tests/)
 [![ONNX](https://img.shields.io/badge/ONNX-supported-orange.svg)](https://onnx.ai/)
 [![uv](https://img.shields.io/badge/uv-package%20manager-blueviolet.svg)](https://github.com/astral-sh/uv)
+[![DeepWiki](https://img.shields.io/badge/DeepWiki-nano--autograd-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAxN0g5VjdoMnYxMHptNCAwaC0yVjdoMnYxMHoiLz48L3N2Zz4=)](https://deepwiki.com/Atnagnohil/nano-autograd)
 
 *一个教育性的深度学习框架，用于理解自动微分和神经网络的核心原理*
 
 *使用 [uv](https://github.com/astral-sh/uv) 包管理器 ⚡*
+
+> 📖 **强烈推荐**：使用 [DeepWiki](https://deepwiki.com/Atnagnohil/nano-autograd) 来探索和学习本项目 —— 它提供了 AI 驱动的交互式知识库，能让你更快速、更轻松地理解整个代码库。
 
 [English](README.md) | 简体中文
 
